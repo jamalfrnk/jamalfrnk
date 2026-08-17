@@ -327,7 +327,7 @@ PHYSICAL SYSTEMS
 OBSERVABILITY
   ↓
 FEEDBACK
-```
+
 
 I believe dependable AI systems require more than strong models.
 
@@ -378,5 +378,3 @@ I am interested in working with teams building:
 **Recruiters, engineering leaders, and collaborators:**
 [malcolmfrank91@gmail.com](mailto:malcolmfrank91@gmail.com)
 
-```
-```
