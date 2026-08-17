@@ -1,5 +1,3 @@
-
-````markdown
 # Malcolm Frank
 
 ## AI Infrastructure · Agentic Software Engineering · MLOps · Robotics
@@ -84,7 +82,6 @@ One of my primary ongoing projects is **J.A.R.V.I.S.**, a second-brain and agent
 
 The system is being designed around the execution loop:
 
-```text
 GOAL
   ↓
 TASK GRAPH
@@ -99,7 +96,7 @@ VISIBILITY
   ↓
 LEARNING
   ↺
-````
+
 
 ### Architectural areas being explored and implemented
 
@@ -313,7 +310,6 @@ I have also developed software aimed at improving field operations, visit tracki
 
 I am most interested in systems that connect several layers of engineering:
 
-```text
 DATA
   ↓
 MODELS
