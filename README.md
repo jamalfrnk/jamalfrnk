@@ -1,4 +1,4 @@
-# Malcolm Frank
+# Malcolm "J" Frank
 
 ## AI Infrastructure · Agentic Software Engineering · MLOps · Robotics
 
