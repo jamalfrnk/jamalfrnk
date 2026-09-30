@@ -4,6 +4,10 @@
 
 I build intelligent software systems that connect **AI models, agents, data, infrastructure, automation, and real-world machines**.
 
+# J-Jones™ — Patent Pending
+
+J-Jones™ is a patent-pending, local-first cognitive continuity system for governed AI memory, provider-neutral execution, and verified canonical state transition.
+
 My engineering background spans software development, AI-native applications, robotic systems, cybersecurity, and distributed systems. My current focus is designing reliable **agentic software and AI infrastructure** that can plan work, use tools, maintain memory, retrieve knowledge, verify outcomes, and operate through observable, testable workflows.
 
 **Currently interested in opportunities across:**
